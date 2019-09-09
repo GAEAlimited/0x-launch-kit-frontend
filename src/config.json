@@ -54,6 +54,7 @@
                 "1": "0xdac17f958d2ee523a2206206994597c13d831ec7"
             }
         },
+        
         {
             "decimals": 18,
             "symbol": "bnb",
@@ -75,6 +76,26 @@
             }
         },
         {
+            "decimals": 8,
+            "symbol": "swftc",
+            "name": "SwftCoin",
+            "icon": "https://etherscan.io/token/images/swiftcoin_28_2.png",
+            "primaryColor": "#512D80",
+            "addresses": {
+                "1": "0x0bb217e40f8a5cb79adf04e1aab60e5abd0dfc1e"
+            }
+        },
+        {
+            "decimals": 8,
+            "symbol": "0xd",
+            "name": "0xDark",
+            "icon": "https://etherscan.io/images/main/empty-token.png",
+            "primaryColor": "#512D80",
+            "addresses": {
+                "1": "0x05a5ef019e1e00b35c60cdf418fd657f856c46be"
+            }
+        },
+        {
             "decimals": 18,
             "symbol": "omg",
             "name": "OmiseGo",
@@ -88,6 +109,14 @@
     "pairs": [
         {
             "base": "omg",
+            "quote": "weth"
+        },
+        {
+            "base": "0xd",
+            "quote": "weth"
+        },
+        {
+            "base": "swftc",
             "quote": "weth"
         },
         {
