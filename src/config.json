@@ -66,6 +66,16 @@
             }
         },
         {
+            "decimals": 8,
+            "symbol": "libra",
+            "name": "Libra-X",
+            "primaryColor": "#68CCBB",
+            "icon": "",
+            "addresses": {
+                "1": "0x2ef503b3dafc9444a1bbf4e52b9f63c96060f4ce"
+            }
+        },
+        {
             "decimals": 6,
             "symbol": "usdc",
             "name": "USD Coin",
@@ -92,7 +102,7 @@
             "icon": "https://etherscan.io/images/main/empty-token.png",
             "primaryColor": "#512D80",
             "addresses": {
-                "1": "0x05a5ef019e1e00b35c60cdf418fd657f856c46be"
+                "1": "0xe1ae07ea12bdae73b7f546075f5c78f65aad4876"
             }
         },
         {
@@ -134,6 +144,34 @@
         {
             "base": "tcash",
             "quote": "weth"
+        }
+        {
+            "base": "omg",
+            "quote": "0xd"
+        },
+        {
+            "base": "swftc",
+            "quote": "0xd"
+        },
+        {
+            "base": "usdc",
+            "quote": "0xd"
+        },
+        {
+            "base": "bnb",
+            "quote": "0xd"
+        },
+        {
+            "base": "usdt",
+            "quote": "0xd"
+        },
+        {
+            "base": "tcash",
+            "quote": "0xd"
+        },
+        {
+            "base": "libra",
+            "quote": "0xd"
         }
     ],
     "marketFilters": [
