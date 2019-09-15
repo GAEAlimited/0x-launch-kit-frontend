@@ -18,7 +18,11 @@ export const Footer: React.FC<Props> = props => {
     return (
         <FooterWrapper title={GIT_COMMIT} {...props}>
             <a href="https://discord.gg/AxMsrmu" target="_blank" rel="noopener noreferrer">
-                Join our Discord
+                Discord Chat
+            </a>
+            <p> | </p>
+            <a href="https://t.me/zeroxDex" target="_blank" rel="noopener noreferrer">
+                Telegram Chat
             </a>
         </FooterWrapper>
     );
