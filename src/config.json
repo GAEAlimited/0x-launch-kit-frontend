@@ -107,6 +107,16 @@
         },
         {
             "decimals": 18,
+            "symbol": "dai",
+            "name": "Dai Stablecoin v1.0",
+            "primaryColor": "#68CCBB",
+            "icon": "assets/icons/bnb.png",
+            "addresses": {
+                "1": "0x89d24a6b4ccb1b6faa2625fe562bdd9a23260359"
+            }
+        },
+        {
+            "decimals": 18,
             "symbol": "mkr",
             "name": "Maker",
             "primaryColor": "#68CCBB",
@@ -229,6 +239,10 @@
         },
         {
             "base": "link",
+            "quote": "0xd"
+        },
+        {
+            "base": "dai",
             "quote": "0xd"
         },
         {
