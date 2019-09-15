@@ -262,10 +262,6 @@
         {
             "base": "tcash",
             "quote": "0xd"
-        },
-        {
-            "base": "libra",
-            "quote": "0xd"
         }
     ],
     "marketFilters": [
