@@ -66,13 +66,83 @@
             }
         },
         {
-            "decimals": 8,
-            "symbol": "libra",
-            "name": "Libra-X",
+            "decimals": 18,
+            "symbol": "leo",
+            "name": "Bitfinex LEO Token",
             "primaryColor": "#68CCBB",
-            "icon": "",
+            "icon": "assets/icons/bnb.png",
             "addresses": {
-                "1": "0x2ef503b3dafc9444a1bbf4e52b9f63c96060f4ce"
+                "1": "0x2af5d2ad76741191d15dfe7bf6ac92d4bd912ca3"
+            }
+        },
+        {
+            "decimals": 18,
+            "symbol": "ht",
+            "name": "HuobiToken",
+            "primaryColor": "#68CCBB",
+            "icon": "assets/icons/bnb.png",
+            "addresses": {
+                "1": "0x6f259637dcd74c767781e37bc6133cd6a68aa161"
+            }
+        },
+        {
+            "decimals": 18,
+            "symbol": "0xx",
+            "name": "0xDEX",
+            "primaryColor": "#68CCBB",
+            "icon": "assets/icons/bnb.png",
+            "addresses": {
+                "1": "0x1506adf17b3dfc51352b2cb87c10eb35af20488f"
+            }
+        },
+        {
+            "decimals": 18,
+            "symbol": "link",
+            "name": "ChainLink Token",
+            "primaryColor": "#68CCBB",
+            "icon": "assets/icons/bnb.png",
+            "addresses": {
+                "1": "0x514910771af9ca656af840dff83e8264ecf986ca"
+            }
+        },
+        {
+            "decimals": 18,
+            "symbol": "mkr",
+            "name": "Maker",
+            "primaryColor": "#68CCBB",
+            "icon": "assets/icons/bnb.png",
+            "addresses": {
+                "1": "0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2"
+            }
+        },
+        {
+            "decimals": 0,
+            "symbol": "ino",
+            "name": "Ino Coin",
+            "primaryColor": "#68CCBB",
+            "icon": "assets/icons/bnb.png",
+            "addresses": {
+                "1": "0xc9859fccc876e6b4b3c749c5d29ea04f48acb74f"
+            }
+        },
+        {
+            "decimals": 8,
+            "symbol": "cro",
+            "name": "Crypto.com Chain",
+            "primaryColor": "#68CCBB",
+            "icon": "assets/icons/bnb.png",
+            "addresses": {
+                "1": "0xa0b73e1ff0b80914ab6fe0444e65848c4c34450b"
+            }
+        },
+        {
+            "decimals": 18,
+            "symbol": "hedg",
+            "name": "HEDG",
+            "primaryColor": "#68CCBB",
+            "icon": "assets/icons/bnb.png",
+            "addresses": {
+                "1": "0xf1290473e210b2108a85237fbcd7b6eb42cc654f"
             }
         },
         {
@@ -102,7 +172,7 @@
             "icon": "https://etherscan.io/images/main/empty-token.png",
             "primaryColor": "#512D80",
             "addresses": {
-                "1": "0xe1ae07ea12bdae73b7f546075f5c78f65aad4876"
+                "1": "0xbb871b602b359403f8fedd110355bffcef40c2d4"
             }
         },
         {
@@ -147,6 +217,30 @@
         },
         {
             "base": "omg",
+            "quote": "0xd"
+        },
+        {
+            "base": "hedg",
+            "quote": "0xd"
+        },
+        {
+            "base": "ht",
+            "quote": "0xd"
+        },
+        {
+            "base": "link",
+            "quote": "0xd"
+        },
+        {
+            "base": "ino",
+            "quote": "0xd"
+        },
+        {
+            "base": "mkr",
+            "quote": "0xd"
+        },
+        {
+            "base": "leo",
             "quote": "0xd"
         },
         {
