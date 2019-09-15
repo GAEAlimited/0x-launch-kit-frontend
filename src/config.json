@@ -199,34 +199,78 @@
     "pairs": [
         {
             "base": "omg",
-            "quote": "weth"
-        },
-        {
-            "base": "0xd",
-            "quote": "weth"
+            "quote": "usdt"
         },
         {
             "base": "swftc",
-            "quote": "weth"
+            "quote": "usdt"
         },
         {
             "base": "usdc",
-            "quote": "weth"
+            "quote": "usdt"
         },
         {
             "base": "bnb",
-            "quote": "weth"
-        },
-        {
-            "base": "usdt",
-            "quote": "weth"
+            "quote": "usdt"
         },
         {
             "base": "tcash",
-            "quote": "weth"
+            "quote": "usdt"
+        },
+        {
+            "base": "hedg",
+            "quote": "usdt"
+        },
+        {
+            "base": "ht",
+            "quote": "usdt"
+        },
+        {
+            "base": "link",
+            "quote": "usdt"
+        },
+        {
+            "base": "dai",
+            "quote": "usdt"
+        },
+        {
+            "base": "ino",
+            "quote": "usdt"
+        },
+        {
+            "base": "mkr",
+            "quote": "usdt"
+        },
+        {
+            "base": "leo",
+            "quote": "usdt"
+        },
+        {
+            "base": "0xx",
+            "quote": "usdt"
+        },
+        {
+            "base": "0xd",
+            "quote": "usdt"
         },
         {
             "base": "omg",
+            "quote": "0xd"
+        },
+        {
+            "base": "swftc",
+            "quote": "0xd"
+        },
+        {
+            "base": "usdc",
+            "quote": "0xd"
+        },
+        {
+            "base": "bnb",
+            "quote": "0xd"
+        },
+        {
+            "base": "tcash",
             "quote": "0xd"
         },
         {
@@ -258,15 +302,7 @@
             "quote": "0xd"
         },
         {
-            "base": "swftc",
-            "quote": "0xd"
-        },
-        {
-            "base": "usdc",
-            "quote": "0xd"
-        },
-        {
-            "base": "bnb",
+            "base": "0xx",
             "quote": "0xd"
         },
         {
@@ -274,8 +310,60 @@
             "quote": "0xd"
         },
         {
+            "base": "omg",
+            "quote": "0xx"
+        },
+        {
+            "base": "swftc",
+            "quote": "0xx"
+        },
+        {
+            "base": "usdc",
+            "quote": "0xx"
+        },
+        {
+            "base": "bnb",
+            "quote": "0xx"
+        },
+        {
             "base": "tcash",
-            "quote": "0xd"
+            "quote": "0xx"
+        },
+        {
+            "base": "hedg",
+            "quote": "0xx"
+        },
+        {
+            "base": "ht",
+            "quote": "0xx"
+        },
+        {
+            "base": "link",
+            "quote": "0xx"
+        },
+        {
+            "base": "dai",
+            "quote": "0xx"
+        },
+        {
+            "base": "ino",
+            "quote": "0xx"
+        },
+        {
+            "base": "mkr",
+            "quote": "0xx"
+        },
+        {
+            "base": "leo",
+            "quote": "0xx"
+        },
+        {
+            "base": "0xd",
+            "quote": "0xx"
+        },
+        {
+            "base": "usdt",
+            "quote": "0xx"
         }
     ],
     "marketFilters": [
