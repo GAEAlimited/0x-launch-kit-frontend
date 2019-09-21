@@ -194,6 +194,26 @@
             "addresses": {
                 "1": "0xd26114cd6EE289AccF82350c8d8487fedB8A0C07"
             }
+        },
+        {
+            "decimals": 8,
+            "symbol": "laika",
+            "name": "Laika",
+            "icon": "assets/icons/omg.png",
+            "primaryColor": "#E1AA3E",
+            "addresses": {
+                "1": "0xb4f152d7de828d291d5fb0618302af295307a73c"
+            }
+        },
+        {
+            "decimals": 18,
+            "symbol": "pand",
+            "name": "Panda Token",
+            "icon": "assets/icons/omg.png",
+            "primaryColor": "#E1AA3E",
+            "addresses": {
+                "1": "0x2883ab4d70cb5d05eefa41caff4fb24e6d7b5f14"
+            }
         }
     ],
     "pairs": [
@@ -254,6 +274,14 @@
             "quote": "usdt"
         },
         {
+            "base": "pand",
+            "quote": "usdt"
+        },
+        {
+            "base": "laika",
+            "quote": "usdt"
+        },
+        {
             "base": "omg",
             "quote": "0xd"
         },
@@ -310,6 +338,14 @@
             "quote": "0xd"
         },
         {
+            "base": "pand",
+            "quote": "0xd"
+        },
+        {
+            "base": "laika",
+            "quote": "0xd"
+        },
+        {
             "base": "omg",
             "quote": "0xx"
         },
@@ -363,6 +399,14 @@
         },
         {
             "base": "usdt",
+            "quote": "0xx"
+        },
+        {
+            "base": "pand",
+            "quote": "0xx"
+        },
+        {
+            "base": "laika",
             "quote": "0xx"
         }
     ],
