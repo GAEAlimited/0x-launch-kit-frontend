@@ -408,7 +408,7 @@
         {
             "base": "pand",
             "quote": "0xx"
-        },
+        }
     ],
     "marketFilters": [
         {
