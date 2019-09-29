@@ -167,16 +167,6 @@
         },
         {
             "decimals": 8,
-            "symbol": "swftc",
-            "name": "SwftCoin",
-            "icon": "https://etherscan.io/token/images/swiftcoin_28_2.png",
-            "primaryColor": "#512D80",
-            "addresses": {
-                "1": "0x0bb217e40f8a5cb79adf04e1aab60e5abd0dfc1e"
-            }
-        },
-        {
-            "decimals": 8,
             "symbol": "0xd",
             "name": "0xDark",
             "icon": "https://etherscan.io/images/main/empty-token.png",
@@ -197,12 +187,22 @@
         },
         {
             "decimals": 8,
-            "symbol": "laika",
-            "name": "Laika",
+            "symbol": "aca",
+            "name": "Acash Coin",
             "icon": "assets/icons/omg.png",
             "primaryColor": "#E1AA3E",
             "addresses": {
-                "1": "0xb4f152d7de828d291d5fb0618302af295307a73c"
+                "1": "0x63d958d765f5bd88efdbd8afd32445393b24907f"
+            }
+        },
+        {
+            "decimals": 18,
+            "symbol": "aba",
+            "name": "ABACOIN",
+            "icon": "assets/icons/omg.png",
+            "primaryColor": "#E1AA3E",
+            "addresses": {
+                "1": "0xdaf76716996052aff7edb66ef0edb301bf001b6f"
             }
         },
         {
@@ -222,7 +222,11 @@
             "quote": "usdt"
         },
         {
-            "base": "swftc",
+            "base": "aba",
+            "quote": "usdt"
+        },
+        {
+            "base": "aca",
             "quote": "usdt"
         },
         {
@@ -278,19 +282,19 @@
             "quote": "usdt"
         },
         {
-            "base": "laika",
-            "quote": "usdt"
-        },
-        {
             "base": "omg",
             "quote": "0xd"
         },
         {
-            "base": "swftc",
+            "base": "usdc",
             "quote": "0xd"
         },
         {
-            "base": "usdc",
+            "base": "aca",
+            "quote": "0xd"
+        },
+        {
+            "base": "aba",
             "quote": "0xd"
         },
         {
@@ -342,15 +346,7 @@
             "quote": "0xd"
         },
         {
-            "base": "laika",
-            "quote": "0xd"
-        },
-        {
             "base": "omg",
-            "quote": "0xx"
-        },
-        {
-            "base": "swftc",
             "quote": "0xx"
         },
         {
@@ -367,6 +363,14 @@
         },
         {
             "base": "hedg",
+            "quote": "0xx"
+        },
+        {
+            "base": "aca",
+            "quote": "0xx"
+        },
+        {
+            "base": "aba",
             "quote": "0xx"
         },
         {
@@ -405,10 +409,6 @@
             "base": "pand",
             "quote": "0xx"
         },
-        {
-            "base": "laika",
-            "quote": "0xx"
-        }
     ],
     "marketFilters": [
         {
