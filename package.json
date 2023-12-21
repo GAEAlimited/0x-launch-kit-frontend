@@ -48,6 +48,11 @@
         "prettier": "prettier --write '**/*.{ts,tsx,json,md}' --ignore-path .gitignore",
         "prettier-check": "prettier --check '**/*.{ts,tsx,json,md}' --ignore-path .gitignore",
         "coveralls": "cat ./coverage/lcov.info | coveralls"
+        "start-b": "browserify -p esmify -t [ browserify.config.js ] -o public/bundle.js -d",
+        "build-b": "browserify -p esmify -t [ browserify.config.js ] -o public/bundle.js -d",
+  // ...
+}
+
     },
     "eslintConfig": {
         "extends": "react-app"
